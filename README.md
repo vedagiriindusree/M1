@@ -1,4 +1,3 @@
-
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -135,7 +134,7 @@ printf("The input value is not equal to 1.\n");
 return 0;
 }
 ```
-##OUTPUT:
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/5c1906df-27c2-4745-891e-74406760ac9d)	
 
 ## RESULT:
